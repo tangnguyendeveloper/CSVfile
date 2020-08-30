@@ -1,0 +1,9 @@
+﻿  DataEncovi.cpp
+D:\lập trình\CTDL&GT\sermina\programS\DataEncovi\DataEncovi\Color.h(28,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\lập trình\CTDL&GT\sermina\programS\DataEncovi\DataEncovi\Color.h(28,34): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating code
+  1 of 285 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DataEncovi.vcxproj -> D:\lập trình\CTDL&GT\sermina\programS\DataEncovi\Release\DataEncovi.exe
