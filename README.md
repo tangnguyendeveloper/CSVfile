@@ -2,6 +2,7 @@ Cài đặt Python 3
 https://www.python.org/downloads/
 
 Chạy hai lệnh sau trong Terminal
+
 "pip install xlrd"
 
 "pip install XlsxWriter"
